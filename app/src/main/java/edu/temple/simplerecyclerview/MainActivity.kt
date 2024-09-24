@@ -17,7 +17,7 @@ class MainActivity : AppCompatActivity() {
         //TODO Step 2: Provide a LayoutManager
         recyclerView.layoutManager = LinearLayoutManager(this)
 
-
         //TODO Step 4: Provide a RecyclerView.Adapter
+
     }
 }
